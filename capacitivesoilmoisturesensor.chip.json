@@ -1,0 +1,11 @@
+{
+  "name": "capacitivesoilmoisturesensor",
+  "author": "Sharon Barrial",
+  "pins": [
+    "VCC",
+    "GND",
+    "IN",
+    "OUT"
+  ],
+  "controls": []
+}
